@@ -42,4 +42,6 @@ It aims to uncover hidden trends, volatility shifts, and market sentiments that 
 
 ---
 Output_graphics
-![]()
+![moving average ribbon based analysis.jpg](moving_average_ribbon_based_analysis.jpg)
+
+
